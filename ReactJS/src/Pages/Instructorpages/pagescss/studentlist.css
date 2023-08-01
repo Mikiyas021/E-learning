@@ -1,0 +1,9 @@
+table{
+    width: 350px;
+    overflow: auto;
+    overflow-y: auto;
+}
+th{
+    background-color: rgb(13, 149, 240);
+    text-align: center;
+}

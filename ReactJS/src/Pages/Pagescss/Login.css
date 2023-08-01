@@ -1,0 +1,75 @@
+.formclass1{
+    width: 320px;
+    height: 300px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+  
+   
+}
+.Linkinlogin{
+    color: blue;
+    margin-top: 10px;
+    font-size: 15px;
+    
+}
+.Forgot{
+    margin-left: 10px;
+    font-size: 15px;
+}
+.loginclass{
+    display: flex;
+    
+}
+.imgclass{
+    padding: 50px;
+    padding-left: 100px;
+}
+.loginheading{
+    margin-left: 60px;
+    text-align: center;
+    font-size: 20px;
+    width:120px;
+    box-sizing: border-box;
+    margin-top: 0;
+    border-bottom: 2px solid black;
+    margin-bottom: 50px;
+    height: 70px;
+}
+.loginhead{
+   
+    font-size: 1.5em;
+    text-align: center;
+    margin-left:0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+}
+#loginbtn{
+    background-color: black;
+    color: #ffffff;
+    width: 70px;
+}
+.alert{
+    width:50%;
+    margin:20px auto;
+    padding:30px;
+    position:relative;
+    border-radius:5px;
+    box-shadow:0 0 15px 5px #ccc;
+}
+.close{
+    position:absolute;
+    width:30px;
+    height:30px;
+    opacity:0.5;
+    border-width:1px;
+    border-style:solid;
+    border-radius:50%;
+    right:15px;
+    top:25px;
+    text-align:center;
+    font-size:1.6em;
+    cursor:pointer;
+  }
+ 

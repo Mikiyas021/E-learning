@@ -1,0 +1,31 @@
+
+.data_box2{
+ 
+    margin:20px;
+    min-width: 120px;
+    min-height: 150px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 20px;
+}
+.course_list{
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 500px;
+    height: 230px;
+    border: 0.5px;
+    border-style:groove;
+    display: flex;
+    flex-direction: row;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.data_box2 h3{
+    margin-top: 10px;
+}
+.coursename{
+    margin-right: -20px;
+    font-size:15px;
+    color: white;
+    font-family:cursive;
+}

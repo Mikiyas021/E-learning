@@ -1,0 +1,35 @@
+.container3{
+    padding: 20px;
+    margin: 50px;
+    width: 600px;
+    min-height: 500px;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 50px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+#contactform{
+    margin-top: 20px;
+    height: 400px;
+    width: 400px;
+
+}
+.Allinone{
+    display: flex;
+}
+.seconddiv{
+    margin: 50px;
+    width: 90%;
+    height: 145px;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 50px;
+    padding: 30px;
+    color:#ffffff;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.seconddiv{
+    text-align: left;
+}

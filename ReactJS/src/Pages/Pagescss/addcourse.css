@@ -1,0 +1,23 @@
+
+.courseform{
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.courseform input {
+    border-radius: 5px;
+}
+.courseform label {
+   display: flex;
+   flex-direction: row;
+}
+.courseform label input{
+    display: block;
+   
+}
+#addcoursebtn{
+    width: 120px;
+    height: 40px;
+    margin-bottom: 20px;
+    background-color: black;
+    color: #ffffff;
+}

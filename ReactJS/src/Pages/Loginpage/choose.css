@@ -1,0 +1,29 @@
+.choosesignup{
+    padding: 30px;
+    margin: 100px;
+    width: 470px;
+    margin-left: 450px;
+   height: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.choosesignuplink{
+    margin-top: 50px;
+    margin-left: -50px;
+}
+.choosesignuplink h3{
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-stretch: expanded;
+}
+.shead{
+  
+    box-sizing: border-box;
+    border-top: 2px solid rgba(255, 255, 255, .1);
+    border-bottom: 1px solid black;
+}
+.shead h3{
+    font-size: 22px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 5px;
+}

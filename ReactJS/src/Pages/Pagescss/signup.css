@@ -1,0 +1,84 @@
+.formclass{
+    width: 320px;
+    height: 485px;
+    background-color:#ffffff ;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    padding: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 20px;
+}
+body{
+    text-align:center;
+}
+
+input{
+    position: relative;
+    margin-bottom: 15px;
+    border: solid black 0.5px;
+   
+    align-items: center;
+    margin-left: 10px;
+    height: 30px;
+    width: 200px;
+}
+.select{
+    position: relative;
+    margin-bottom: 15px;
+    border: solid black 0.5px;
+   
+    align-items: center;
+    margin-left: 5px;
+    height: 30px;
+    width: 200px;
+}
+.title_container h2 { 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 1.8em;
+    margin: 20px;
+    margin-bottom: -5px;
+    color:black;
+   
+}
+
+.button{
+width: 80px;
+display: inline-block;
+outline: 0;
+cursor: pointer;
+padding: 5px 16px;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+vertical-align: middle;
+border: 1px solid;
+border-radius: 6px;
+color: #ffffff;
+background-color: #1C82AD;
+border-color: #1b1f2326;
+box-shadow: rgba(27, 31, 35, 0.04) 0px 1px 0px 0px, rgba(255, 255, 255, 0.25) 0px 1px 0px 0px inset;
+transition: 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+transition-property: color, background-color, border-color;
+margin-left:60px;
+margin-top: 10px;
+}
+.button:hover {
+    background-color: #2c974b;
+    border-color: #1b1f2326;
+    transition-duration: 0.1s;
+}
+#forgot{
+    height: 200px;
+    margin: 100px;
+  
+}
+.form_wrappersign{
+    justify-content: center;
+}
+.row-clearfix1{
+justify-content: center;
+}

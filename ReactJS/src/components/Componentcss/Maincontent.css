@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+}
+.Maincontent{
+    padding: 60px;
+    background-color:#2980b9;
+    color:white;
+    margin-bottom: 10px;
+    margin-top: 3px;
+}
+.Maincontent_p{
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 30px;
+    box-shadow: 4px 4px 15px 0px black;
+    text-align: justify;
+}
+h1{
+    text-align: left;
+    font-size: 1.9em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:10px;
+    
+}
+.animate__animated.animate__pulse {
+    --animate-duration: 3s;
+    --animate-delay: 0.5s;
+  }
+  .single-slider {
+    background-image:  url("../images/education.png");
+    background-size: cover;
+    height: 600px;
+    background-repeat: no-repeat;
+    filter: brightness(90%);
+   }
+.H1{
+    padding-top: 50px;
+    color: #ffffff;
+    font-weight:bolder;
+    font-size:50px;
+}
+.slider-cont{
+    position: relative;
+    z-index: 5;
+    padding: 40px;
+}
+
+.animate__animated.animate__backInLeft{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 1000;
+    color: #ffffff;
+    padding-bottom: 25px;
+    --animate-duration: 3s;
+    --animate-delay: 0.5s;
+    font-size:40px;
+    filter: brightness(10%);
+    filter: drop-shadow(2px 4px 6px black);
+ }
+.slider-cont p{
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 600;
+    padding-top: 250px;
+    filter: brightness(190%);
+}
+#idtext{
+    filter: brightness(800%);
+}

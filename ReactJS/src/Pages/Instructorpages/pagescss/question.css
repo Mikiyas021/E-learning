@@ -1,0 +1,40 @@
+
+label{
+    display: flex;
+    
+}
+
+.outputquestion div label input{
+    width: 30px;
+}
+.radioclass{
+  width: 1.15em;
+  height: 1.15em;
+  border: 0.15em solid currentColor;
+  border-radius: 50%;
+}
+.back{
+    display: flex;
+   
+   
+}
+#questionsubmit{
+    height: 30px;
+}
+#deletequestion{
+   margin: 0;
+   margin-bottom: 10px;
+   height: 50px;
+   margin-left: 30px;
+}
+#addquestion{
+    width: 120px;
+    background-color: black;
+    color: white;
+}
+.Addquestionform{
+    margin-top: 40px;
+}
+.deleteQ{
+    margin-top: 30px;
+}

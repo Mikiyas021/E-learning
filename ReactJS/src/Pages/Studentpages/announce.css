@@ -1,0 +1,20 @@
+.announce{
+    text-align: left;
+    width:700px;
+    min-height: 80px;
+    background-color:#ffffff ;
+    margin: 10px;
+    padding: 1.2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.announce .announce_date{
+    text-align:end;
+}
+.announcement{
+    display: flex;
+    flex-direction: column;
+}
+.announcement h1{
+    text-decoration: underline;
+}

@@ -1,0 +1,24 @@
+<?php
+	header('Access-Control-Allow-Origin: *');
+$servername = "localhost";
+$username = "root";
+$password = "";
+$databasename = "project";
+
+$conn = mysqli_connect($servername, $username, $password, $databasename);
+
+if(mysqli_connect_error()){
+	echo mysqli_connect_error();
+}
+
+else{
+    $id1 = $_POST['ID'];
+    $id2 = $_POST['first_name'];
+   $sql = "UPDATE teacher_account Set status = 'active'  where Teacher_id = '$id1'";
+   $query = mysqli_query($conn, $sql);
+   if($query){
+    echo "Instructor ".$id2. " with ID ".$id1. " is Unblocked";
+   }
+   
+ 
+}
